@@ -1,0 +1,13 @@
+{
+  "window": {
+    "fullScreen": false,
+    "width": 1920,
+    "height": 1080
+  },
+  "font": {
+    "family": "Consolas",
+    "size": 15
+  },
+  "fps":  60,
+  "mainLevel": "1.json"
+}
