@@ -1,10 +1,10 @@
 # Adventure
 
-Simple 2D platform-game![1](C:\Users\xzy\Desktop\Adventure\image\1.png)
+Simple 2D platform-game![1](https://github.com/LucaXiang/Adventure/blob/master/image/1.png)
 
-![2](C:\Users\xzy\Desktop\Adventure\image\2.png)
+![2](https://github.com/LucaXiang/Adventure/blob/master/image/2.png)
 
-![3](C:\Users\xzy\Desktop\Adventure\image\3.png)
+![3](https://github.com/LucaXiang/Adventure/blob/master/image/3.png)
 
 ## Library
 
