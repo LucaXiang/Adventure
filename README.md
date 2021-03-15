@@ -14,7 +14,7 @@ Simple 2D platform-game![1](https://github.com/LucaXiang/Adventure/blob/master/i
 
 ## How to start
 
->pip install pygame bintree
+>pip install pygame bintrees
 >
 >python main.py
 
